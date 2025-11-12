@@ -21,11 +21,11 @@ I aim to create smart and scalable solutions that make technology more accessibl
 ### 🎓 Education  
 
 - 🎓 **Master of Computer Application (MCA)**  
-  *APJ Abdul Kalam Technological University (2022 – 2025)*  
+  *APJ Abdul Kalam Technological University (2025 - Present)*  
   - Focused on Software Development & Project Management  
 
 - 🎓 **Bachelor of Science in Computer Science**  
-  *Kannur University (2019 – 2022)*  
+  *Kannur University (2022 - 2025)*  
   - CGPA: **8.75**  
   - Project: *Migrant Worker Registration and Local Job Management System*  
 
