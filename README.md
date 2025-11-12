@@ -5,12 +5,8 @@
 </h1>
 
 <h3 align="center">
-  🎓 MCA Student | 🧠 Aspiring Data Scientist | 💻 Flutter Developer | 🤖 AI Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=MCA+Student;Aspiring+Data+Scientist;AI+ML+Enthusiast" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Building+Smart+and+Scalable+Software;Passionate+about+AI+%26+Data+Science;Learning%2C+Coding%2C+and+Innovating+Everyday!" alt="Typing SVG" />
-</p>
 
 ---
 
