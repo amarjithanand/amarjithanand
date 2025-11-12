@@ -91,7 +91,7 @@ I aim to create smart and scalable solutions that make technology more accessibl
 
 <p align="center">
   <a href="https://amarjithanand.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/amarjithanand"><img src="https://img.shields.io/badge/LinkedIn-Amarjith%20Anand-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/amarjith-anand-49577a320"><img src="https://img.shields.io/badge/LinkedIn-Amarjith%20Anand-blue?logo=linkedin"></a>
   <a href="https://github.com/amarjithanand"><img src="https://img.shields.io/badge/GitHub-@amarjithanand-black?logo=github"></a>
   <a href="mailto:amarjithanand17@gmail.com"><img src="https://img.shields.io/badge/Email-amarjithanand17%40gmail.com-red?logo=gmail"></a>
 </p>
