@@ -88,8 +88,9 @@ I aim to create smart and scalable solutions that make technology more accessibl
 </p>
 
 ---
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="931783f4-f494-475a-b918-a6cd1cd63f86" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/931783f4-f494-475a-b918-a6cd1cd63f86/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/931783f4-f494-475a-b918-a6cd1cd63f86/badge.png" width="150" alt="Credly Badge">
+</a>
 
 ### 🌐 Connect With Me  
 
