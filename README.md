@@ -89,7 +89,7 @@ I aim to create smart and scalable solutions that make technology more accessibl
 
 ---
 
-[![My Credly Badge](https://www.credly.com/go/57nfYR7OZe9W2rfkxepUFQ)](https://www.credly.com/go/57nfYR7OZe9W2rfkxepUFQ)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="931783f4-f494-475a-b918-a6cd1cd63f86" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 🌐 Connect With Me  
 
