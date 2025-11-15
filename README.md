@@ -70,7 +70,9 @@ I aim to create smart and scalable solutions that make technology more accessibl
 ---
 
 ### 🏅 Certifications  
-- **IBM Data Science Certification**  
+- **IBM Data Science Certification**
+- **Deloitte Data Analytics Job Simulation**
+- **YBI Foundation - AI & Generative AI Intern**
 
 ---
 
