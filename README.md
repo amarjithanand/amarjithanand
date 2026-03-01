@@ -78,10 +78,6 @@ I aim to create smart and scalable solutions that make technology more accessibl
 
 ### 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarjithanand&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjithanand&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjithanand&theme=tokyonight&hide_border=true" height="180px"/>
