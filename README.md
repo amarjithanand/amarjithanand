@@ -1,99 +1,109 @@
-<!-- Animated Professional GitHub Profile README for Amarjith Anand -->
 
-<h1 align="center">
-  👋 Hi, I'm <a href="https://amarjithanand.github.io/" target="_blank">Amarjith Anand</a>
-</h1>
+# Hi, I'm Amarjith Anand 👋
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=350&center=true&vCenter=true&width=550&lines=MCA+Student;Aspiring+Data+Scientist;AI+ML+Enthusiast" alt="Typing SVG" />
-</h3>
+### MCA Student | Software Development | AI/ML Enthusiast
 
----
+I'm an MCA student at APJ Abdul Kalam Technological University with a background in Computer Science and an interest in building practical software solutions using Python, Java, and AI/ML technologies.
 
-### 🚀 About Me  
+I enjoy exploring how software engineering and machine learning can solve real-world problems, from intelligent email classification to collaborative academic platforms. I focus on strengthening my fundamentals, building meaningful projects, and continuously improving as a developer.
 
-I’m a passionate **Computer Science graduate** currently pursuing a **Master of Computer Applications (MCA)** at *APJ Abdul Kalam Technological University*.  
-With a strong foundation in **programming**, **mobile app development**, and a growing interest in **Data Science** and **Artificial Intelligence**,  
-I aim to create smart and scalable solutions that make technology more accessible and impactful.  
+- 🎓 **Education:** Master of Computer Applications
+- 💻 **Interests:** Software Development, Artificial Intelligence, Machine Learning
+- 🧠 **Currently exploring:** NLP, AI-powered applications, and backend development
+- 🚀 **Latest Project:** DeptConnect — an MCA mini project
+- 🏆 **Achievement:** UGC NET Qualified — 2026
+- 📍 **Based in:** Kerala, India
 
 ---
 
-### 🎓 Education  
+## 🛠️ Technical Skills
 
-- 🎓 **Master of Computer Application (MCA)**  
-  *APJ Abdul Kalam Technological University (2025 - Present)*  
-  - Focused on Software Development & Project Management  
+**Programming Languages**
+- Java
+- Python
+- C++
+- SQL
 
-- 🎓 **Bachelor of Science in Computer Science**  
-  *Kannur University (2022 - 2025)*  
-  - CGPA: **8.75**  
-  - Project: *Migrant Worker Registration and Local Job Management System*  
+**Frameworks & Tools**
+- FastAPI
+- Git & GitHub
 
----
-
-### 💼 Experience  
-
-**AI & Generative AI Intern — YBI Foundation** *(Oct 2025)*  
-- Hands-on learning in **Artificial Intelligence** and **Generative AI**.  
-- Built real-world AI prototypes under expert mentorship.  
-
----
-
-### 🧠 Technical Skills  
-
-**Languages:**  
-`Python` • `Java` • `C` • `C++` • `SQL`  
-
-**Domains:**  
-- Web Development  
-- Mobile App Development (Flutter + Firebase)  
-- Data Science  
-
-**Soft Skills:**  
-`Problem Solving` • `Fast Learning` • `Team Collaboration` • `Design Understanding`  
+**Areas of Interest**
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing
+- Backend Development
+- Object-Oriented Programming
+- Database Management Systems
+- Software Development Life Cycle
 
 ---
 
-### 🧩 Featured Projects  
+## 🚀 Featured Projects
 
-#### 🧠 Dementia Virtual Memory Assistant (DVMA)  
-🔗 [GitHub Repository](https://github.com/ajmal-uk/dementia-virtual-memory)  
-- Flutter-based app with secure role-based access for patients and caretakers.  
-- Integrated **face recognition** and **live caretaker tracking** for safety.  
+### 1. DeptConnect
+**MCA Mini Project**
 
-#### 👷‍♂️ Migrant Worker Registration and Local Job Management System  
-🔗 [GitHub Repository](https://github.com/projectteam2k24/migrantworker)  
-- Digitized migrant worker registration with verified identity.  
-- Built a **job-matching platform** connecting workers with local employers.  
-- Integrated **AI chatbot** for instant cost estimation and 24/7 assistance.  
+A department-focused software project developed to address academic and departmental needs through a dedicated digital platform.
 
----
+- Building practical software development experience through a real-world academic project.
+- Applying software engineering concepts throughout development.
+- Focusing on usability, maintainability, and solving relevant departmental problems.
 
-### 🏅 Certifications  
-- **IBM Data Science Certification**
-- **Deloitte Data Analytics Job Simulation**
-- **YBI Foundation - AI & Generative AI Intern**
+🔗 [Explore my GitHub repositories](https://github.com/amarjithanand)
 
----
+### 2. AI-Powered Gmail Email Classification System
 
-### 📊 GitHub Analytics  
+An AI-powered email classification system that uses semantic embeddings to categorize Gmail messages intelligently.
 
+- Developed a Sentence Transformer-based semantic classification pipeline.
+- Implemented confidence-based predictions with an LLM fallback for uncertain classifications.
+- Integrated the Gmail API and FastAPI for email processing and intelligent label management.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjithanand&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
+**Technologies:** Python, Sentence Transformers, FastAPI, Gmail API, LLMs
 
----
+### 3. Migrant Connect — Job Management System
 
-### 🌐 Connect With Me  
+A mobile application designed to connect workers, contractors, and job providers through dedicated user and administrative modules.
 
-<p align="center">
-  <a href="https://amarjithanand.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/amarjith-anand-49577a320"><img src="https://img.shields.io/badge/LinkedIn-Amarjith%20Anand-blue?logo=linkedin"></a>
-  <a href="https://github.com/amarjithanand"><img src="https://img.shields.io/badge/GitHub-@amarjithanand-black?logo=github"></a>
-  <a href="mailto:amarjithanand17@gmail.com"><img src="https://img.shields.io/badge/Email-amarjithanand17%40gmail.com-red?logo=gmail"></a>
-</p>
+- Developed features for job coordination and management.
+- Followed SDLC practices, including requirements analysis, design, development, and testing.
+- Collaborated with a team of three to build the application.
+
+**Technologies:** Flutter, Firebase
 
 ---
 
-<h3 align="center">⭐ "Turning ideas into intelligent systems through code and data." ⭐</h3>
+## 🏆 Certifications & Achievements
+
+- UGC NET Qualified — 2026
+- Introduction to Git and GitHub — Google
+- Programming in Java — IIT Kharagpur, NPTEL
+
+---
+
+## 🤝 Leadership Experience
+
+**Technical Lead — College Magazine Committee, 2023–2024**
+
+Led the technical aspects of college magazine development, coordinating digital content, design, and publication workflows with the committee.
+
+---
+
+## 🌱 What I'm Working Towards
+
+- Strengthening my problem-solving and algorithmic thinking.
+- Building reliable backend applications and AI-powered systems.
+- Deepening my understanding of machine learning and NLP.
+- Developing projects that demonstrate both technical fundamentals and practical engineering skills.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [github.com/amarjithanand](https://github.com/amarjithanand)
+- **LinkedIn:** [linkedin.com/in/amarjith-anand](https://linkedin.com/in/amarjith-anand)
+- **Email:** [amarjithanand17@gmail.com](mailto:amarjithanand17@gmail.com)
+
+---
+
+*Building, learning, and improving — one project at a time.*
